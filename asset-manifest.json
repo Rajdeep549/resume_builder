@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/resume-buider/static/css/main.1e903a65.chunk.css",
+    "main.js": "/resume-buider/static/js/main.f6654d4c.chunk.js",
+    "main.js.map": "/resume-buider/static/js/main.f6654d4c.chunk.js.map",
+    "runtime-main.js": "/resume-buider/static/js/runtime-main.12b3e0c4.js",
+    "runtime-main.js.map": "/resume-buider/static/js/runtime-main.12b3e0c4.js.map",
+    "static/css/2.6a49c93e.chunk.css": "/resume-buider/static/css/2.6a49c93e.chunk.css",
+    "static/js/2.a0699ef9.chunk.js": "/resume-buider/static/js/2.a0699ef9.chunk.js",
+    "static/js/2.a0699ef9.chunk.js.map": "/resume-buider/static/js/2.a0699ef9.chunk.js.map",
+    "static/js/3.b714075a.chunk.js": "/resume-buider/static/js/3.b714075a.chunk.js",
+    "static/js/3.b714075a.chunk.js.map": "/resume-buider/static/js/3.b714075a.chunk.js.map",
+    "index.html": "/resume-buider/index.html",
+    "static/css/2.6a49c93e.chunk.css.map": "/resume-buider/static/css/2.6a49c93e.chunk.css.map",
+    "static/css/main.1e903a65.chunk.css.map": "/resume-buider/static/css/main.1e903a65.chunk.css.map",
+    "static/js/2.a0699ef9.chunk.js.LICENSE.txt": "/resume-buider/static/js/2.a0699ef9.chunk.js.LICENSE.txt",
+    "static/media/Oswald-Light.0db1d0c5.ttf": "/resume-buider/static/media/Oswald-Light.0db1d0c5.ttf",
+    "static/media/Profile.07300db7.png": "/resume-buider/static/media/Profile.07300db7.png",
+    "static/media/Roboto-Medium.d2d7f0c0.ttf": "/resume-buider/static/media/Roboto-Medium.d2d7f0c0.ttf",
+    "static/media/Roboto-Regular.f25bd059.ttf": "/resume-buider/static/media/Roboto-Regular.f25bd059.ttf",
+    "static/media/ResumeCreate.css": "/resume-buider/static/media/bg_small.e72e3d5c.svg",
+    "static/media/landingImg.cd01397e.svg": "/resume-buider/static/media/landingImg.cd01397e.svg",
+    "static/media/logo.faef55e4.png": "/resume-buider/static/media/logo.faef55e4.png",
+    "static/media/slick-theme.css": "/resume-buider/static/media/slick.c94f7671.ttf",
+    "static/media/template1.1707f213.png": "/resume-buider/static/media/template1.1707f213.png",
+    "static/media/template2.7964f049.png": "/resume-buider/static/media/template2.7964f049.png",
+    "static/media/upload.a45eafd0.svg": "/resume-buider/static/media/upload.a45eafd0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12b3e0c4.js",
+    "static/css/2.6a49c93e.chunk.css",
+    "static/js/2.a0699ef9.chunk.js",
+    "static/css/main.1e903a65.chunk.css",
+    "static/js/main.f6654d4c.chunk.js"
+  ]
+}
